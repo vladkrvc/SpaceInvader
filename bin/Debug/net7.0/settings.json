@@ -1,0 +1,11 @@
+{
+  "PlayerSpeed": 10.0,
+  "PlayerMovingLeftButton": 0,
+  "PlayerMovingRightButton": 3,
+  "PlayerMovingUpButton": 22,
+  "PlayerMovingDownButton": 18,
+  "PlayerShootingButton": 57,
+  "PlayerShootingCooldown": 0.5,
+  "BulletSpeed": 20.0,
+  "BulletRadius": 5.0
+}

@@ -1,0 +1,80 @@
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Space Invaders
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Space Invaders.deps.json
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Space Invaders.runtimeconfig.json
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Space Invaders.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Space Invaders.pdb
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/SFML.Audio.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/SFML.Graphics.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/SFML.System.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/SFML.Window.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libcsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/alpine-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libcsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/debian-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libcsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-audio.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-graphics.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-system.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so.2.5
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/fedora-x64/native/libsfml-window.so.2.5.1
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Audio.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Graphics.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x64/native/csfml-System.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x64/native/csfml-Window.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x64/native/openal32.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Audio.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Graphics.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x86/native/csfml-System.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x86/native/csfml-Window.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/runtimes/win-x86/native/openal32.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.csproj.AssemblyReference.cache
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.AssemblyInfoInputs.cache
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.AssemblyInfo.cs
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.csproj.CoreCompileInputs.cache
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.csproj.CopyComplete
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/refint/Space Invaders.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.pdb
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/Space Invaders.genruntimeconfig.cache
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/obj/Debug/net7.0/ref/Space Invaders.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/vitaly/RiderProjects/CSharp_Course_Examples/FinalProjects/Space Invaders/bin/Debug/net7.0/GameConfiguration.json
